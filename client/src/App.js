@@ -37,3 +37,12 @@ export default App;
 // [-] Update button flashing between clicks on todos
 // [-] Button shows update after deletion
 // [-] Inputs should clear upon submission
+// [-] Update the Readme
+// [-] Add favico an title
+// [-] Check box that strikes through
+// [-] Highlight function for tasks in progress
+// [-] Priority based sorting
+// [-] Add function to add tasks to folders/projects
+// [-] Maak dit mooier
+// [-] Only filter completed items to enable looking for old tasks
+// [-] Check for duplicates and don't allow them
