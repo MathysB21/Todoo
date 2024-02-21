@@ -76,7 +76,7 @@ const AddTodos = () => {
 
                 <div className="mb-3">
                     <label className="form-label">Detail</label>
-                    <input type="text" className="form-control" placeholder='Enter detail' value={todo.detail} onChange={e => setTodo({...todo, detail: e.target.value})}></input>
+                    <input type="text" className="form-control" placeholder='Enter detail (Optional)' value={todo.detail} onChange={e => setTodo({...todo, detail: e.target.value})}></input>
                 </div>
 
                 <div className="mb-3">
